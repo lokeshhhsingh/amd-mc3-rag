@@ -1,0 +1,287 @@
+{
+ "challenge": "hard practice set",
+ "queries": [
+  {
+   "n": 1,
+   "query": "What is the payload of the HX-9 in kg?",
+   "expected_answer": "8.5",
+   "expected_citations": [
+    "engineering/specs/hx9_datasheet_rev2.pdf"
+   ],
+   "note": "withdrawn r1 says 9.0"
+  },
+  {
+   "n": 2,
+   "query": "What is the repeatability of the HX-12 in mm?",
+   "expected_answer": "0.04",
+   "expected_citations": [
+    "engineering/specs/hx12_datasheet_rev3.pdf"
+   ],
+   "note": ""
+  },
+  {
+   "n": 3,
+   "query": "What protection class does the current HX-9 datasheet give?",
+   "expected_answer": "IP65",
+   "expected_citations": [
+    "engineering/specs/hx9_datasheet_rev2.pdf"
+   ],
+   "note": "withdrawn r1 says IP54"
+  },
+  {
+   "n": 4,
+   "query": "What is the approved payload of the HX-9L in kg?",
+   "expected_answer": "7.5",
+   "expected_citations": [
+    "engineering/specs/hx9L_product_brief.docx"
+   ],
+   "note": "DRAFT datasheet says 7.0"
+  },
+  {
+   "n": 5,
+   "query": "What is the reach of the HX-9L in mm?",
+   "expected_answer": "1000",
+   "expected_citations": [
+    "engineering/specs/hx9L_product_brief.docx"
+   ],
+   "note": "DRAFT says 950"
+  },
+  {
+   "n": 6,
+   "query": "What is the default network port of the controller?",
+   "expected_answer": "7420",
+   "expected_citations": [
+    "engineering/manuals/controller_manual.docx"
+   ],
+   "note": "7421 is the service port"
+  },
+  {
+   "n": 7,
+   "query": "Who is the document owner of the controller manual?",
+   "expected_answer": "Priya Nair",
+   "expected_citations": [
+    "engineering/manuals/controller_manual.docx"
+   ],
+   "note": "only in the footer"
+  },
+  {
+   "n": 8,
+   "query": "After how many minutes do admin sessions expire?",
+   "expected_answer": "15",
+   "expected_citations": [
+    "engineering/manuals/controller_manual.docx"
+   ],
+   "note": "operator is 60"
+  },
+  {
+   "n": 9,
+   "query": "What does error E101 mean?",
+   "expected_answer": "Encoder fault",
+   "expected_citations": [
+    "engineering/manuals/controller_manual.docx"
+   ],
+   "note": "table lookup"
+  },
+  {
+   "n": 10,
+   "query": "Which firmware release fixed HX-ERR-4471?",
+   "expected_answer": "5.2.1",
+   "expected_citations": [
+    "engineering/firmware/release_notes.txt"
+   ],
+   "note": ""
+  },
+  {
+   "n": 11,
+   "query": "Which firmware release fixed the error that stopped production line 4 on 2026-08-14?",
+   "expected_answer": "5.2.1",
+   "expected_citations": [
+    "engineering/firmware/release_notes.txt",
+    "ops/logs/production_line4_2026-08.log"
+   ],
+   "note": "multi-hop: log -> release notes; staging log has a decoy"
+  },
+  {
+   "n": 12,
+   "query": "What is the USD unit price of the part that must be replaced for the error that stopped production line 4 on 2026-08-14?",
+   "expected_answer": "38.50",
+   "expected_citations": [
+    "engineering/kb/error_codes.md",
+    "finance/price_list_2026.xlsx",
+    "ops/logs/production_line4_2026-08.log"
+   ],
+   "note": "TWO hops: log -> KB -> price list"
+  },
+  {
+   "n": 13,
+   "query": "What is the 2026 USD unit price of BRK-REL-77?",
+   "expected_answer": "38.50",
+   "expected_citations": [
+    "finance/price_list_2026.xlsx"
+   ],
+   "note": "2025 csv and EUR sheet are decoys"
+  },
+  {
+   "n": 14,
+   "query": "What is the 2026 USD unit price of BRK-REL-77B?",
+   "expected_answer": "41.20",
+   "expected_citations": [
+    "finance/price_list_2026.xlsx"
+   ],
+   "note": "near-duplicate part number"
+  },
+  {
+   "n": 15,
+   "query": "What was the USD unit price of BRK-REL-77 in the 2025 price list?",
+   "expected_answer": "34.00",
+   "expected_citations": [
+    "finance/price_list_2025.csv"
+   ],
+   "note": ""
+  },
+  {
+   "n": 16,
+   "query": "How many units of BRK-REL-77 were returned in 2026-Q3?",
+   "expected_answer": "12",
+   "expected_citations": [
+    "support/rma/rma_log.xlsx"
+   ],
+   "note": "Q2 row says 5"
+  },
+  {
+   "n": 17,
+   "query": "What torque is specified for joint J4?",
+   "expected_answer": "28",
+   "expected_citations": [
+    "media/scan_0007.png"
+   ],
+   "note": "image only, file name uninformative"
+  },
+  {
+   "n": 18,
+   "query": "What serial number is printed on the HX-12 nameplate?",
+   "expected_answer": "HR-2207-0418",
+   "expected_citations": [
+    "media/IMG_0412.jpg"
+   ],
+   "note": "image only, dim and rotated"
+  },
+  {
+   "n": 19,
+   "query": "Which pin of connector X7 carries BRAKE_REL?",
+   "expected_answer": "14",
+   "expected_citations": [
+    "media/diagram_final2.png"
+   ],
+   "note": "image only"
+  },
+  {
+   "n": 20,
+   "query": "What is DEFAULT_TIMEOUT_S in config.py?",
+   "expected_answer": "45",
+   "expected_citations": [
+    "engineering/firmware/controller/config.py"
+   ],
+   "note": "config_legacy.py says 30"
+  },
+  {
+   "n": 21,
+   "query": "What is MAX_RETRIES in config.py?",
+   "expected_answer": "4",
+   "expected_citations": [
+    "engineering/firmware/controller/config.py"
+   ],
+   "note": ""
+  },
+  {
+   "n": 22,
+   "query": "What broker port is set in settings.yaml?",
+   "expected_answer": "5671",
+   "expected_citations": [
+    "engineering/firmware/deploy/settings.yaml"
+   ],
+   "note": ""
+  },
+  {
+   "n": 23,
+   "query": "What is the current planned ship date of the Kestrel Foods pilot?",
+   "expected_answer": "2026-11-15",
+   "expected_citations": [
+    "meetings/2026-09-03_pilot_decision.txt"
+   ],
+   "note": "later meeting overrides the earlier estimate"
+  },
+  {
+   "n": 24,
+   "query": "What is the daily meal allowance for domestic travel?",
+   "expected_answer": "45",
+   "expected_citations": [
+    "hr/travel_policy.docx"
+   ],
+   "note": "international is 70"
+  },
+  {
+   "n": 25,
+   "query": "What is the maximum number of leave days that can be carried over?",
+   "expected_answer": "5",
+   "expected_citations": [
+    "hr/leave_policy.pdf"
+   ],
+   "note": ""
+  },
+  {
+   "n": 26,
+   "query": "In which firmware release was ticket HRT-1187 fixed?",
+   "expected_answer": "5.2.1",
+   "expected_citations": [
+    "support/tickets/ticket_export.csv"
+   ],
+   "note": "one row among 300"
+  },
+  {
+   "n": 27,
+   "query": "Which firmware version was line 4 running at the production stop on 2026-08-14?",
+   "expected_answer": "5.2.0",
+   "expected_citations": [
+    "ops/logs/production_line4_2026-08.log"
+   ],
+   "note": "one line among 4000"
+  },
+  {
+   "n": 28,
+   "query": "What is the unit price of BRK-REL-77 in GBP?",
+   "expected_answer": "",
+   "expected_citations": [],
+   "note": "UNANSWERABLE: only USD and EUR exist"
+  },
+  {
+   "n": 29,
+   "query": "What is the maximum payload of the HX-15?",
+   "expected_answer": "",
+   "expected_citations": [],
+   "note": "UNANSWERABLE: no such product"
+  },
+  {
+   "n": 30,
+   "query": "What is the repeatability of the HX-9L?",
+   "expected_answer": "",
+   "expected_citations": [],
+   "note": "UNANSWERABLE: brief says not specified; draft has no value"
+  },
+  {
+   "n": 31,
+   "query": "What payment terms does the Vorlon supplier agreement specify?",
+   "expected_answer": "",
+   "expected_citations": [],
+   "note": "answer exists only in the ENCRYPTED pdf: must refuse"
+  },
+  {
+   "n": 32,
+   "query": "How many findings did the 2026 internal audit report?",
+   "expected_answer": "",
+   "expected_citations": [],
+   "note": "answer exists only in an UNREADABLE file (needs a non-root user to test)",
+   "skip_if_root": true
+  }
+ ]
+}

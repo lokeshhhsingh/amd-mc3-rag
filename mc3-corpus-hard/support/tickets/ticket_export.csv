@@ -1,0 +1,301 @@
+ticket_id,product,component,severity,status,fixed_in,summary
+HRT-1000,HX-12,gripper,S2,Closed,5.1.0,Routine service request
+HRT-1001,HX-9L,power supply,S2,Closed,5.2.1,Routine service request
+HRT-1002,HX-12,gripper,S2,Closed,5.2.1,Routine service request
+HRT-1003,HX-9L,power supply,S2,Closed,5.2.1,Routine service request
+HRT-1004,HX-9,power supply,S1,Open,5.2.0,Routine service request
+HRT-1005,HX-9L,power supply,S3,Closed,5.2.1,Routine service request
+HRT-1006,HX-9,encoder,S1,Closed,5.2.0,Routine service request
+HRT-1007,HX-9,cable,S2,Closed,5.2.0,Routine service request
+HRT-1008,HX-9,brake relay,S2,Closed,5.2.1,Routine service request
+HRT-1009,HX-9L,encoder,S1,Open,5.2.1,Routine service request
+HRT-1010,HX-9L,fan,S1,Closed,5.2.1,Routine service request
+HRT-1011,HX-9L,gripper,S1,Closed,5.1.0,Routine service request
+HRT-1012,HX-9L,fan,S1,Closed,5.1.0,Routine service request
+HRT-1013,HX-12,power supply,S2,Closed,5.2.0,Routine service request
+HRT-1014,HX-9,power supply,S1,Closed,5.1.0,Routine service request
+HRT-1015,HX-9,gripper,S3,Closed,,Routine service request
+HRT-1016,HX-12,firmware,S1,Closed,,Routine service request
+HRT-1017,HX-9L,pendant,S2,Open,5.2.0,Routine service request
+HRT-1018,HX-9,cable,S1,Closed,5.2.0,Routine service request
+HRT-1019,HX-9L,encoder,S3,Closed,5.2.1,Routine service request
+HRT-1020,HX-12,cable,S1,Closed,5.2.0,Routine service request
+HRT-1021,HX-9L,power supply,S2,Open,5.2.0,Routine service request
+HRT-1022,HX-9,pendant,S1,Open,5.2.1,Routine service request
+HRT-1023,HX-12,power supply,S2,Closed,,Routine service request
+HRT-1024,HX-9,fan,S2,Closed,5.2.0,Routine service request
+HRT-1025,HX-9L,brake relay,S2,Closed,,Routine service request
+HRT-1026,HX-9,fan,S2,Closed,,Routine service request
+HRT-1027,HX-12,fan,S1,Closed,5.2.0,Routine service request
+HRT-1028,HX-9L,power supply,S2,Closed,5.2.0,Routine service request
+HRT-1029,HX-9,encoder,S3,Closed,5.1.0,Routine service request
+HRT-1030,HX-12,encoder,S2,Open,5.2.1,Routine service request
+HRT-1031,HX-9L,encoder,S2,Closed,,Routine service request
+HRT-1032,HX-9L,power supply,S1,Closed,,Routine service request
+HRT-1033,HX-12,cable,S2,Closed,5.2.0,Routine service request
+HRT-1034,HX-9L,firmware,S3,Closed,,Routine service request
+HRT-1035,HX-12,fan,S1,Closed,5.1.0,Routine service request
+HRT-1036,HX-9L,encoder,S3,Closed,5.1.0,Routine service request
+HRT-1037,HX-12,cable,S3,Closed,,Routine service request
+HRT-1038,HX-9L,firmware,S3,Open,5.2.1,Routine service request
+HRT-1039,HX-9L,brake relay,S2,Closed,5.2.0,Routine service request
+HRT-1040,HX-12,pendant,S1,Closed,5.2.1,Routine service request
+HRT-1041,HX-12,encoder,S1,Open,5.1.0,Routine service request
+HRT-1042,HX-9L,fan,S3,Closed,5.1.0,Routine service request
+HRT-1043,HX-9,brake relay,S3,Open,5.2.0,Routine service request
+HRT-1044,HX-9,pendant,S3,Closed,5.1.0,Routine service request
+HRT-1045,HX-12,power supply,S1,Closed,5.2.0,Routine service request
+HRT-1046,HX-9L,fan,S3,Open,5.2.0,Routine service request
+HRT-1047,HX-9,brake relay,S2,Closed,,Routine service request
+HRT-1048,HX-9,firmware,S2,Closed,,Routine service request
+HRT-1049,HX-9L,gripper,S2,Closed,5.2.1,Routine service request
+HRT-1050,HX-9,firmware,S2,Open,5.1.0,Routine service request
+HRT-1051,HX-9,pendant,S1,Closed,,Routine service request
+HRT-1052,HX-12,fan,S1,Open,5.2.0,Routine service request
+HRT-1053,HX-9L,encoder,S3,Open,5.2.0,Routine service request
+HRT-1054,HX-12,pendant,S3,Closed,,Routine service request
+HRT-1055,HX-9L,encoder,S1,Open,,Routine service request
+HRT-1056,HX-12,gripper,S3,Closed,5.2.1,Routine service request
+HRT-1057,HX-9L,fan,S3,Closed,5.2.1,Routine service request
+HRT-1058,HX-12,gripper,S2,Closed,,Routine service request
+HRT-1059,HX-12,firmware,S2,Closed,5.2.0,Routine service request
+HRT-1060,HX-9L,firmware,S2,Closed,5.1.0,Routine service request
+HRT-1061,HX-9L,cable,S1,Open,5.1.0,Routine service request
+HRT-1062,HX-12,gripper,S1,Closed,5.2.0,Routine service request
+HRT-1063,HX-9L,gripper,S3,Closed,5.2.1,Routine service request
+HRT-1064,HX-12,power supply,S1,Open,5.2.0,Routine service request
+HRT-1065,HX-9,cable,S1,Open,,Routine service request
+HRT-1066,HX-12,fan,S1,Closed,5.2.0,Routine service request
+HRT-1067,HX-9,fan,S3,Closed,5.2.1,Routine service request
+HRT-1068,HX-9L,encoder,S1,Closed,5.2.0,Routine service request
+HRT-1069,HX-12,cable,S3,Open,5.1.0,Routine service request
+HRT-1070,HX-9,encoder,S3,Open,5.2.1,Routine service request
+HRT-1071,HX-12,pendant,S1,Closed,5.2.1,Routine service request
+HRT-1072,HX-9L,firmware,S3,Closed,5.1.0,Routine service request
+HRT-1073,HX-12,cable,S1,Open,5.2.1,Routine service request
+HRT-1074,HX-12,encoder,S2,Closed,,Routine service request
+HRT-1075,HX-9,cable,S3,Closed,5.1.0,Routine service request
+HRT-1076,HX-9,brake relay,S3,Closed,5.1.0,Routine service request
+HRT-1077,HX-9,firmware,S1,Closed,,Routine service request
+HRT-1078,HX-9,encoder,S2,Closed,5.2.0,Routine service request
+HRT-1079,HX-9L,cable,S3,Open,,Routine service request
+HRT-1080,HX-12,brake relay,S2,Closed,,Routine service request
+HRT-1081,HX-9L,power supply,S2,Closed,5.1.0,Routine service request
+HRT-1082,HX-9L,gripper,S2,Closed,5.2.0,Routine service request
+HRT-1083,HX-9,power supply,S3,Closed,,Routine service request
+HRT-1084,HX-9,firmware,S3,Open,5.1.0,Routine service request
+HRT-1085,HX-9,gripper,S2,Closed,5.2.0,Routine service request
+HRT-1086,HX-9,cable,S2,Closed,,Routine service request
+HRT-1087,HX-9L,fan,S2,Open,5.2.0,Routine service request
+HRT-1088,HX-12,firmware,S3,Closed,5.1.0,Routine service request
+HRT-1089,HX-12,encoder,S2,Closed,,Routine service request
+HRT-1090,HX-9L,firmware,S3,Open,5.2.1,Routine service request
+HRT-1091,HX-12,gripper,S2,Closed,,Routine service request
+HRT-1092,HX-9L,pendant,S2,Closed,,Routine service request
+HRT-1093,HX-9L,firmware,S3,Closed,5.2.0,Routine service request
+HRT-1094,HX-12,encoder,S3,Open,,Routine service request
+HRT-1095,HX-9,cable,S2,Closed,5.2.0,Routine service request
+HRT-1096,HX-12,power supply,S3,Closed,5.1.0,Routine service request
+HRT-1097,HX-9L,pendant,S1,Closed,,Routine service request
+HRT-1098,HX-12,pendant,S3,Closed,5.2.0,Routine service request
+HRT-1099,HX-9,firmware,S3,Open,5.2.0,Routine service request
+HRT-1100,HX-9L,power supply,S3,Open,5.2.0,Routine service request
+HRT-1101,HX-12,encoder,S3,Open,5.2.0,Routine service request
+HRT-1102,HX-9L,brake relay,S1,Closed,5.2.0,Routine service request
+HRT-1103,HX-12,encoder,S1,Closed,5.1.0,Routine service request
+HRT-1104,HX-9,fan,S3,Closed,5.2.1,Routine service request
+HRT-1105,HX-9L,encoder,S2,Closed,5.2.1,Routine service request
+HRT-1106,HX-9L,power supply,S1,Closed,5.1.0,Routine service request
+HRT-1107,HX-9,gripper,S2,Closed,5.2.1,Routine service request
+HRT-1108,HX-12,firmware,S1,Closed,5.2.1,Routine service request
+HRT-1109,HX-9,gripper,S1,Closed,,Routine service request
+HRT-1110,HX-12,encoder,S2,Closed,5.2.0,Routine service request
+HRT-1111,HX-9L,gripper,S2,Closed,5.2.0,Routine service request
+HRT-1112,HX-12,power supply,S2,Closed,,Routine service request
+HRT-1113,HX-12,power supply,S3,Closed,,Routine service request
+HRT-1114,HX-9,pendant,S3,Open,5.2.1,Routine service request
+HRT-1115,HX-9,firmware,S2,Open,5.2.0,Routine service request
+HRT-1116,HX-12,gripper,S2,Closed,,Routine service request
+HRT-1117,HX-12,brake relay,S3,Closed,5.1.0,Routine service request
+HRT-1118,HX-12,gripper,S2,Closed,5.2.1,Routine service request
+HRT-1119,HX-9L,brake relay,S1,Closed,5.2.0,Routine service request
+HRT-1120,HX-12,firmware,S3,Closed,,Routine service request
+HRT-1121,HX-9L,firmware,S3,Open,,Routine service request
+HRT-1122,HX-12,brake relay,S2,Closed,5.2.0,Routine service request
+HRT-1123,HX-12,fan,S2,Closed,5.2.0,Routine service request
+HRT-1124,HX-12,gripper,S1,Closed,5.2.1,Routine service request
+HRT-1125,HX-9L,fan,S3,Open,5.1.0,Routine service request
+HRT-1126,HX-12,pendant,S2,Closed,5.2.0,Routine service request
+HRT-1127,HX-9L,cable,S3,Closed,,Routine service request
+HRT-1128,HX-12,power supply,S1,Closed,5.2.0,Routine service request
+HRT-1129,HX-9,firmware,S2,Closed,,Routine service request
+HRT-1130,HX-9L,fan,S1,Closed,5.2.0,Routine service request
+HRT-1131,HX-9L,gripper,S2,Closed,5.1.0,Routine service request
+HRT-1132,HX-9,pendant,S1,Closed,5.2.1,Routine service request
+HRT-1133,HX-9,fan,S2,Open,,Routine service request
+HRT-1134,HX-9L,cable,S1,Open,5.2.0,Routine service request
+HRT-1135,HX-9L,pendant,S3,Closed,5.2.1,Routine service request
+HRT-1136,HX-12,gripper,S1,Closed,5.2.0,Routine service request
+HRT-1137,HX-9,encoder,S3,Closed,5.2.1,Routine service request
+HRT-1138,HX-12,firmware,S2,Open,5.2.1,Routine service request
+HRT-1139,HX-9L,power supply,S3,Closed,5.1.0,Routine service request
+HRT-1140,HX-9,gripper,S2,Closed,,Routine service request
+HRT-1141,HX-9L,fan,S2,Closed,,Routine service request
+HRT-1142,HX-12,gripper,S3,Closed,5.2.1,Routine service request
+HRT-1143,HX-12,pendant,S2,Closed,,Routine service request
+HRT-1144,HX-12,pendant,S3,Closed,5.2.1,Routine service request
+HRT-1145,HX-12,cable,S2,Open,5.1.0,Routine service request
+HRT-1146,HX-12,firmware,S1,Closed,5.2.0,Routine service request
+HRT-1147,HX-9,brake relay,S3,Closed,,Routine service request
+HRT-1148,HX-12,fan,S1,Closed,5.2.1,Routine service request
+HRT-1149,HX-9L,pendant,S3,Closed,5.1.0,Routine service request
+HRT-1150,HX-9,fan,S1,Closed,,Routine service request
+HRT-1151,HX-9L,encoder,S2,Closed,5.2.1,Routine service request
+HRT-1152,HX-9L,encoder,S2,Open,5.1.0,Routine service request
+HRT-1153,HX-9L,brake relay,S2,Open,5.2.1,Routine service request
+HRT-1154,HX-12,power supply,S3,Closed,5.2.0,Routine service request
+HRT-1155,HX-9,power supply,S2,Open,,Routine service request
+HRT-1156,HX-9,firmware,S3,Closed,5.2.1,Routine service request
+HRT-1157,HX-12,power supply,S3,Closed,,Routine service request
+HRT-1158,HX-9,gripper,S2,Open,5.2.1,Routine service request
+HRT-1159,HX-12,power supply,S1,Closed,,Routine service request
+HRT-1160,HX-12,power supply,S1,Open,5.2.0,Routine service request
+HRT-1161,HX-9,fan,S3,Open,5.2.1,Routine service request
+HRT-1162,HX-9L,gripper,S1,Closed,5.2.1,Routine service request
+HRT-1163,HX-9L,firmware,S3,Closed,5.2.0,Routine service request
+HRT-1164,HX-12,pendant,S2,Open,,Routine service request
+HRT-1165,HX-9L,fan,S1,Open,5.2.0,Routine service request
+HRT-1166,HX-12,power supply,S2,Closed,5.2.0,Routine service request
+HRT-1167,HX-9L,brake relay,S1,Closed,5.2.0,Routine service request
+HRT-1168,HX-9,cable,S1,Open,5.2.0,Routine service request
+HRT-1169,HX-9L,fan,S2,Open,,Routine service request
+HRT-1170,HX-9L,cable,S2,Open,,Routine service request
+HRT-1171,HX-12,power supply,S1,Closed,5.1.0,Routine service request
+HRT-1172,HX-9L,cable,S3,Closed,5.2.1,Routine service request
+HRT-1173,HX-12,firmware,S1,Open,5.2.1,Routine service request
+HRT-1174,HX-12,power supply,S2,Closed,5.1.0,Routine service request
+HRT-1175,HX-9L,pendant,S3,Closed,5.2.1,Routine service request
+HRT-1176,HX-9,gripper,S2,Open,5.2.1,Routine service request
+HRT-1177,HX-12,power supply,S2,Open,5.2.1,Routine service request
+HRT-1178,HX-12,firmware,S1,Open,5.2.1,Routine service request
+HRT-1179,HX-12,power supply,S1,Closed,5.2.0,Routine service request
+HRT-1180,HX-12,pendant,S2,Closed,5.1.0,Routine service request
+HRT-1181,HX-9L,pendant,S2,Closed,,Routine service request
+HRT-1182,HX-12,power supply,S1,Closed,5.1.0,Routine service request
+HRT-1183,HX-9L,cable,S2,Open,5.1.0,Routine service request
+HRT-1184,HX-12,fan,S3,Open,,Routine service request
+HRT-1185,HX-9,fan,S3,Closed,5.2.1,Routine service request
+HRT-1186,HX-12,firmware,S1,Closed,5.2.0,Routine service request
+HRT-1187,HX-12,brake relay,S2,Closed,5.2.1,"Intermittent brake release, relay wear"
+HRT-1188,HX-9L,encoder,S2,Closed,5.1.0,Routine service request
+HRT-1189,HX-9L,firmware,S1,Closed,5.2.1,Routine service request
+HRT-1190,HX-9,encoder,S3,Closed,5.2.0,Encoder drift on joint J2
+HRT-1191,HX-12,brake relay,S1,Open,,Routine service request
+HRT-1192,HX-9L,gripper,S1,Closed,5.2.0,Routine service request
+HRT-1193,HX-9,pendant,S1,Closed,,Routine service request
+HRT-1194,HX-9L,fan,S3,Closed,5.2.0,Routine service request
+HRT-1195,HX-12,firmware,S2,Open,5.2.0,Routine service request
+HRT-1196,HX-9L,cable,S1,Closed,5.1.0,Routine service request
+HRT-1197,HX-9L,firmware,S1,Closed,5.2.1,Routine service request
+HRT-1198,HX-12,gripper,S3,Closed,5.2.1,Routine service request
+HRT-1199,HX-12,power supply,S3,Closed,,Routine service request
+HRT-1200,HX-9,pendant,S2,Open,5.2.0,Routine service request
+HRT-1201,HX-12,firmware,S2,Closed,5.2.1,Routine service request
+HRT-1202,HX-9,power supply,S1,Open,5.2.1,Routine service request
+HRT-1203,HX-9,pendant,S1,Closed,5.1.0,Routine service request
+HRT-1204,HX-9,brake relay,S1,Closed,5.1.0,Routine service request
+HRT-1205,HX-9,gripper,S3,Closed,,Routine service request
+HRT-1206,HX-12,firmware,S2,Closed,5.2.1,Routine service request
+HRT-1207,HX-9L,power supply,S3,Open,5.2.0,Routine service request
+HRT-1208,HX-12,gripper,S2,Closed,5.2.0,Routine service request
+HRT-1209,HX-9L,cable,S1,Open,5.2.1,Routine service request
+HRT-1210,HX-9,cable,S2,Closed,,Routine service request
+HRT-1211,HX-9,fan,S2,Open,5.1.0,Routine service request
+HRT-1212,HX-9,brake relay,S3,Closed,5.2.1,Routine service request
+HRT-1213,HX-9L,gripper,S3,Closed,5.2.1,Routine service request
+HRT-1214,HX-12,power supply,S1,Closed,5.2.0,Routine service request
+HRT-1215,HX-9L,fan,S3,Open,5.2.1,Routine service request
+HRT-1216,HX-9,cable,S3,Closed,,Routine service request
+HRT-1217,HX-9L,firmware,S2,Open,5.1.0,Routine service request
+HRT-1218,HX-9L,brake relay,S2,Closed,5.2.1,Routine service request
+HRT-1219,HX-9L,power supply,S1,Open,5.2.0,Routine service request
+HRT-1220,HX-9,brake relay,S3,Closed,5.1.0,Routine service request
+HRT-1221,HX-9L,encoder,S2,Open,5.2.1,Routine service request
+HRT-1222,HX-9L,fan,S2,Closed,5.2.0,Routine service request
+HRT-1223,HX-9,pendant,S2,Closed,5.2.0,Routine service request
+HRT-1224,HX-9,power supply,S3,Closed,5.2.0,Routine service request
+HRT-1225,HX-9,gripper,S2,Closed,5.1.0,Routine service request
+HRT-1226,HX-9L,pendant,S2,Closed,5.1.0,Routine service request
+HRT-1227,HX-9,power supply,S2,Closed,5.1.0,Routine service request
+HRT-1228,HX-9,fan,S2,Closed,5.2.0,Routine service request
+HRT-1229,HX-9,encoder,S2,Closed,5.2.1,Routine service request
+HRT-1230,HX-9,encoder,S2,Open,5.2.1,Routine service request
+HRT-1231,HX-9L,pendant,S2,Closed,5.1.0,Routine service request
+HRT-1232,HX-12,firmware,S2,Closed,,Routine service request
+HRT-1233,HX-12,pendant,S2,Open,,Routine service request
+HRT-1234,HX-9,encoder,S2,Closed,5.2.0,Routine service request
+HRT-1235,HX-12,power supply,S3,Open,5.2.1,Routine service request
+HRT-1236,HX-12,power supply,S3,Open,5.2.0,Routine service request
+HRT-1237,HX-9,power supply,S2,Open,5.2.1,Routine service request
+HRT-1238,HX-9L,encoder,S2,Closed,,Routine service request
+HRT-1239,HX-9,brake relay,S1,Closed,5.2.1,Routine service request
+HRT-1240,HX-9L,brake relay,S1,Closed,5.2.0,Routine service request
+HRT-1241,HX-9L,encoder,S1,Open,5.2.1,Routine service request
+HRT-1242,HX-9L,firmware,S3,Closed,5.1.0,Routine service request
+HRT-1243,HX-9,power supply,S1,Open,5.2.1,Routine service request
+HRT-1244,HX-12,brake relay,S1,Open,,Routine service request
+HRT-1245,HX-12,power supply,S1,Closed,5.2.0,Routine service request
+HRT-1246,HX-9,power supply,S2,Closed,5.1.0,Routine service request
+HRT-1247,HX-12,fan,S1,Open,5.2.1,Routine service request
+HRT-1248,HX-9,pendant,S1,Closed,5.2.1,Routine service request
+HRT-1249,HX-9L,cable,S1,Open,5.1.0,Routine service request
+HRT-1250,HX-9,gripper,S2,Closed,5.2.1,Routine service request
+HRT-1251,HX-9L,pendant,S3,Open,,Routine service request
+HRT-1252,HX-9,power supply,S2,Closed,,Routine service request
+HRT-1253,HX-9L,firmware,S1,Open,5.2.1,Routine service request
+HRT-1254,HX-9L,firmware,S3,Closed,5.1.0,Routine service request
+HRT-1255,HX-9,pendant,S2,Closed,5.1.0,Routine service request
+HRT-1256,HX-9L,firmware,S3,Closed,5.2.0,Routine service request
+HRT-1257,HX-9,encoder,S3,Closed,5.2.1,Routine service request
+HRT-1258,HX-9,firmware,S1,Open,5.2.0,Routine service request
+HRT-1259,HX-9L,encoder,S1,Closed,5.2.0,Routine service request
+HRT-1260,HX-12,firmware,S3,Closed,5.1.0,Routine service request
+HRT-1261,HX-9L,fan,S3,Closed,5.2.1,Routine service request
+HRT-1262,HX-9,brake relay,S3,Closed,,Routine service request
+HRT-1263,HX-12,gripper,S2,Closed,5.2.1,Routine service request
+HRT-1264,HX-9,fan,S2,Closed,5.1.0,Routine service request
+HRT-1265,HX-12,firmware,S3,Open,,Routine service request
+HRT-1266,HX-12,cable,S1,Closed,5.2.1,Routine service request
+HRT-1267,HX-9L,gripper,S2,Open,5.2.0,Routine service request
+HRT-1268,HX-9L,gripper,S3,Closed,5.2.1,Routine service request
+HRT-1269,HX-9,brake relay,S1,Closed,5.1.0,Routine service request
+HRT-1270,HX-9L,cable,S2,Closed,5.2.0,Routine service request
+HRT-1271,HX-9L,pendant,S3,Closed,,Routine service request
+HRT-1272,HX-12,firmware,S3,Closed,,Routine service request
+HRT-1273,HX-9,power supply,S1,Closed,5.2.1,Routine service request
+HRT-1274,HX-12,power supply,S3,Open,5.2.0,Routine service request
+HRT-1275,HX-12,pendant,S2,Open,,Routine service request
+HRT-1276,HX-12,gripper,S3,Closed,5.2.0,Routine service request
+HRT-1277,HX-12,cable,S2,Open,5.2.0,Routine service request
+HRT-1278,HX-9L,gripper,S1,Closed,5.2.0,Routine service request
+HRT-1279,HX-9L,gripper,S2,Closed,5.1.0,Routine service request
+HRT-1280,HX-12,brake relay,S1,Closed,5.2.0,Routine service request
+HRT-1281,HX-9L,firmware,S1,Closed,5.2.0,Routine service request
+HRT-1282,HX-12,encoder,S2,Closed,5.2.1,Routine service request
+HRT-1283,HX-12,firmware,S2,Closed,,Routine service request
+HRT-1284,HX-12,brake relay,S2,Closed,5.1.0,Routine service request
+HRT-1285,HX-9L,brake relay,S2,Closed,,Routine service request
+HRT-1286,HX-12,cable,S2,Closed,,Routine service request
+HRT-1287,HX-12,encoder,S3,Closed,5.2.1,Routine service request
+HRT-1288,HX-12,fan,S2,Open,5.1.0,Routine service request
+HRT-1289,HX-9L,gripper,S1,Closed,5.1.0,Routine service request
+HRT-1290,HX-12,pendant,S3,Closed,5.2.0,Routine service request
+HRT-1291,HX-12,firmware,S3,Open,5.2.1,Routine service request
+HRT-1292,HX-9,firmware,S3,Closed,5.2.0,Routine service request
+HRT-1293,HX-9L,pendant,S1,Closed,5.1.0,Routine service request
+HRT-1294,HX-12,pendant,S3,Open,5.1.0,Routine service request
+HRT-1295,HX-9L,power supply,S1,Closed,5.1.0,Routine service request
+HRT-1296,HX-9,fan,S1,Closed,5.1.0,Routine service request
+HRT-1297,HX-12,fan,S2,Open,,Routine service request
+HRT-1298,HX-9,power supply,S2,Closed,5.2.0,Routine service request
+HRT-1299,HX-9L,encoder,S3,Open,5.2.0,Routine service request

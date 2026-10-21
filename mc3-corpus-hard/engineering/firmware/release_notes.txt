@@ -1,0 +1,13 @@
+Helios controller firmware release notes
+
+Firmware 5.1.0 (2026-05-02)
+  - New admin session timeout setting.
+  - Fixes HX-ERR-4388 (spurious over-temperature alarm).
+
+Firmware 5.2.0 (2026-06-18)
+  - Fixes HX-ERR-4410 (encoder drift on joint J2).
+  - Fixes HX-ERR-4412 (servo bus timeout under load).
+
+Firmware 5.2.1 (2026-07-30)
+  - Fixes HX-ERR-4471 (intermittent brake release).
+  - Minor logging improvements.

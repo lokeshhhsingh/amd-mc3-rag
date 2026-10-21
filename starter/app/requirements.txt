@@ -1,0 +1,2 @@
+pypdf
+transformers>=4.57

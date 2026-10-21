@@ -1,0 +1,4 @@
+retry_limit: 6
+broker_port: 5671
+heartbeat_s: 20
+log_level: info
